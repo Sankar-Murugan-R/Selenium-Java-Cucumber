@@ -1,6 +1,6 @@
-Feature:
-
 @Child-Network
+Feature: Create OCN Child Network Launch
+
 Scenario: OCN_12: Submit Onboarding Request with Network Name, Wallet and Multiple Nodes
     Given the user is signed in
   Then the user clicks "Get Started" button

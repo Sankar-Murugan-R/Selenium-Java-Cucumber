@@ -1,3 +1,4 @@
+@Login
 Feature: Sign Up with valid and invalid credentials
 
   @SignUp @OCN_01

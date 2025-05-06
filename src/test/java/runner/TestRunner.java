@@ -5,7 +5,7 @@ import io.cucumber.testng.CucumberOptions;
 import org.testng.annotations.DataProvider;
 
 @CucumberOptions(features = "src/test/resources/features", glue = {"stepDefinitions"},
-        tags = "@Child-Network",
+        tags = "@Child-Network or @Node-Onboard or @Login",
 
         plugin = {"pretty", "json:target/cucumber-reports/CucumberTestReport.json", "html:target/cucumber-html-report",
                 "json:target/cucumber.json",
