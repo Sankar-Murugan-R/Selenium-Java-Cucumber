@@ -1,4 +1,5 @@
-  Feature: Sign In with valid and invalid credentials
+@Login
+Feature: Sign In with valid and invalid credentials
 
   @SignIn @OCN_07
   Scenario: OCN_07 :Successful Sign In with valid credentials

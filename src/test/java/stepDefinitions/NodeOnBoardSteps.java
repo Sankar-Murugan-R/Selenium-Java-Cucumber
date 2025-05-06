@@ -1,7 +1,6 @@
 package stepDefinitions;
 
-import Pages.HomePage;
-import Pages.NodeOnboardingPage;
+import pages.NodeOnboardingPage;
 import driverFactory.BasePage;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.When;

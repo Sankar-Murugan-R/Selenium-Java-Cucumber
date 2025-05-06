@@ -1,7 +1,7 @@
 package stepDefinitions;
 
-import Pages.HomePage;
-import Pages.SignInPage;
+import pages.HomePage;
+import pages.SignInPage;
 import driverFactory.BasePage;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;

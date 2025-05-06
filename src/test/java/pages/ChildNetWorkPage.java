@@ -1,4 +1,4 @@
-package Pages;
+package pages;
 
 import constants.AppConstants;
 import org.openqa.selenium.By;
@@ -8,8 +8,6 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
-import utils.AlertFunctions;
-import utils.ConfigReader;
 import utils.ElementActions;
 
 public class ChildNetWorkPage {

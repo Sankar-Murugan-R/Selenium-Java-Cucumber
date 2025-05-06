@@ -1,7 +1,6 @@
 package stepDefinitions;
 
-import Pages.ChildNetWorkPage;
-import Pages.NodeOnboardingPage;
+import pages.ChildNetWorkPage;
 import constants.AppConstants;
 import driverFactory.BasePage;
 import io.cucumber.java.en.Given;

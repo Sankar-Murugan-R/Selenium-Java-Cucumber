@@ -1,6 +1,6 @@
+@Node-Onboard
 Feature: Onboarding Request with Nodes and Wallets
 
-  @Node-Onboard
   Scenario: OCN_12: Submit Onboarding Request with Multiple Nodes and Wallets
     Given the user is signed in
     Then the user clicks "Get Started" button
